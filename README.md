@@ -1,5 +1,6 @@
 # interactiveGameOriginal
 2017年（大学1年）の頃に作った防衛ゲーム
+![result](https://github.com/takeYY/interactiveGameOriginal/blob/media/interactiveGameOriginal.gif)
 
 # 概要
 1. 右側から次々出現する敵（赤い球）を倒し、左側のHQ（水色）を防衛するゲーム.
